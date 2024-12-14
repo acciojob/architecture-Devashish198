@@ -14,3 +14,7 @@ table tr td:nth-child(2) {
     width: 600px;
 	height:200px;
 }
+img{
+	height:150px;
+	width:200px;
+}
